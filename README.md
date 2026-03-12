@@ -18,7 +18,14 @@ A lightweight social media API and browser UI.
 - Public feed with author info and post ownership
 - User profile management (bio, location, website, profile picture)
 
-**Stack:** FastAPI · asyncpg · SQLAlchemy (async) · PostgreSQL on Supabase (PgBouncer pooler) · ImageKit · Streamlit frontend
+**Stack:**
+
+- ⚡ FastAPI
+- 🐘 asyncpg
+- 🧱 SQLAlchemy (async)
+- 🐬 PostgreSQL on Supabase (PgBouncer pooler)
+- 🖼️ ImageKit
+- 🎈 Streamlit frontend
 
 **Folder:** `Social_App/`
 
